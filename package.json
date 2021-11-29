@@ -1,0 +1,19 @@
+{
+  "name": "blockchain-demo",
+  "version": "0.0.1",
+  "description": "This is my first blockchain project.",
+  "main": "index.js",
+  "scripts": {
+    "dev":"tsc -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Himanshu Mishra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.6",
+    "typescript": "^4.4.4"
+  }
+}
